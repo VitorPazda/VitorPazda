@@ -16,9 +16,6 @@ C# • ASP.NET MVC • Windows Forms • JavaScript • Node.js • Python
 ### Banco de Dados
 MySQL • SQLite • Entity Framework Core
 
-### Infraestrutura
-Linux • Docker • Samba • GLPI • Nextcloud • Redes • Firewall
-
 ---
 
 ## 📌 Projetos em Destaque
@@ -26,10 +23,6 @@ Linux • Docker • Samba • GLPI • Nextcloud • Redes • Firewall
 🔧 Projeto Assistência Técnica Web
 
 💻 Projeto Assistência Técnica Desktop
-
-🤖 Chatbot com IA
-
-🎮 ProjetoGames
 
 ---
 
@@ -48,6 +41,6 @@ Linux • Docker • Samba • GLPI • Nextcloud • Redes • Firewall
 
 ## 📫 Contato
 
-💼 LinkedIn: Seu Link
+💼 LinkedIn: https://www.linkedin.com/in/vitor-pazda
 
-📧 E-mail: seu@email.com
+📧 E-mail: vitorpazda@gmail.com
