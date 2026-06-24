@@ -1,4 +1,4 @@
-# Olá, eu sou o Vitor Pazda 👋
+# Olá, eu sou Vitor Pazda 👋
 
 💼 Assistente de TI na Assecont
 🎓 Formando em Análise e Desenvolvimento de Sistemas (IFSC)
