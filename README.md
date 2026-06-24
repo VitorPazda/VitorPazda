@@ -1,102 +1,53 @@
 # Olá, eu sou o Vitor Pazda 👋
 
-- Assistente de TI na Assecont
-- Formando em Análise e Desenvolvimento de Sistemas (IFSC)
-  - Santa Catarina, Brasil
+💼 Assistente de TI na Assecont
 
-Atualmente trabalho com suporte técnico, redes, servidores, firewall, Linux, Windows, manutenção de computadores e infraestrutura de TI. Também desenvolvo projetos web, desktop e automações para aprimorar meus conhecimentos e transformar ideias em soluções reais.
+🎓 Formando em Análise e Desenvolvimento de Sistemas (IFSC)
+
+📍 Santa Catarina, Brasil
 
 ---
 
-## Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
 ### Desenvolvimento
-
-* C#
-* ASP.NET Core MVC
-* Windows Forms
-* JavaScript
-* Node.js
-* Python
-* HTML5
-* CSS3
-* Bootstrap
+C# • ASP.NET MVC • Windows Forms • JavaScript • Node.js • Python
 
 ### Banco de Dados
+MySQL • SQLite • Entity Framework Core
 
-* MySQL
-* Entity Framework Core
-
-### Infraestrutura e Sistemas
-
-* Linux
-* Windows Server
-* Docker
-* Samba
-* Nextcloud
-* GLPI
-* Redes de Computadores
-* Firewall
-
-### Ferramentas
-
-* Git
-* GitHub
-* Visual Studio Community
-* VS Code
+### Infraestrutura
+Linux • Docker • Samba • GLPI • Nextcloud • Redes • Firewall
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🔧 Sistema de Assistência Técnica Web
+🔧 Projeto Assistência Técnica Web
 
-Sistema desenvolvido em ASP.NET Core MVC para gerenciamento completo de clientes, produtos, peças, funcionários, ordens de serviço e orçamentos.
+💻 Projeto Assistência Técnica Desktop
 
-**Tecnologias:** C#, ASP.NET Core MVC, Entity Framework Core e MySQL.
+🤖 Chatbot com IA
 
----
-
-### 💻 Sistema de Assistência Técnica Desktop
-
-Versão desktop desenvolvida em Windows Forms para gerenciamento de uma assistência técnica, servindo como base para a evolução posterior da versão web.
-
-**Tecnologias:** C#, Windows Forms e MySQL.
+🎮 ProjetoGames
 
 ---
 
-## 📚 Formação
+## 💼 Experiência
 
-### Instituto Federal de Santa Catarina (IFSC)
+**Assistente de TI — Assecont**
 
-**Técnico em Manutenção e Suporte em Informática**
-
-Conclusão: 2024
-
----
-
-### Instituto Federal de Santa Catarina (IFSC)
-
-**Análise e Desenvolvimento de Sistemas**
-
-Previsão de conclusão: 2026
+- Suporte técnico
+- Redes e infraestrutura
+- Linux e Windows
+- Servidores
+- Firewall
+- Impressoras
 
 ---
 
-## 💼 Experiência Profissional
+## 📫 Contato
 
-### Assistente de TI — Assecont
+💼 LinkedIn: Seu Link
 
-Atuação com:
-
-* Suporte técnico a usuários
-* Manutenção de computadores
-* Administração de servidores
-* Redes e infraestrutura
-* Firewall
-* Impressoras
-* Linux e Windows
-
----
-
-⭐ Sempre buscando aprender novas tecnologias e desenvolver soluções que unam programação, infraestrutura e automação.
+📧 E-mail: seu@email.com
