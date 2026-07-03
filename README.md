@@ -1,8 +1,8 @@
 # Olá, eu sou Vitor Pazda 👋
 
-💼 Assistente de TI na Assecont
-🎓 Formando em Análise e Desenvolvimento de Sistemas (IFSC)
-📍 Santa Catarina, Brasil
+- Assistente de TI na Assecont
+- Formando em Análise e Desenvolvimento de Sistemas (IFSC)
+- Santa Catarina, Brasil
 
 ---
 ## 🚀 Tecnologias
@@ -31,6 +31,5 @@ MySQL • Entity Framework Core
 ---
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/vitor-pazda
-
-📧 E-mail: vitorpazda@gmail.com
+-LinkedIn: https://www.linkedin.com/in/vitor-pazda
+-E-mail: vitorpazda@gmail.com
