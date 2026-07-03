@@ -1,33 +1,7 @@
-# Olá, eu sou Vitor Pazda 👋
+# Olá!
 
-- Assistente de TI na Assecont
-- Formando em Análise e Desenvolvimento de Sistemas (IFSC)
-- Santa Catarina, Brasil
-
----
-## 🚀 Tecnologias
-
-### Desenvolvimento
-C# • ASP.NET MVC • Windows Forms • JavaScript • Node.js • Python
-
-### Banco de Dados
-MySQL • Entity Framework Core
-
----
-## 📌 Projetos em Destaque
-🔧 Projeto Assistência Técnica Web
-💻 Projeto Assistência Técnica Desktop
-
----
-## 💼 Experiência
-
-**Assistente de TI — Assecont**
-- Suporte técnico
-- Redes e infraestrutura
-- Linux e Windows
-- Servidores
-- Firewall
-
+Sou estudante do último ano de Análise e Desenvolvimento de Sistemas no IFSC Canoinhas, e atuo como Assisstente de TI
+na Assecont. Estou buscando atuar na área de programação!
 ---
 ## 📫 Contato
 
